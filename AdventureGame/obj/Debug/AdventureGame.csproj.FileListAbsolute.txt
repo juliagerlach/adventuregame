@@ -1,0 +1,7 @@
+C:\Users\Julia\Documents\projects\dcc projects\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\projects\dcc projects\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\projects\dcc projects\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\Julia\Documents\projects\dcc projects\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\Julia\Documents\projects\dcc projects\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\Julia\Documents\projects\dcc projects\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\Julia\Documents\projects\dcc projects\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
